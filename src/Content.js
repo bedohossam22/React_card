@@ -13,8 +13,7 @@ export default function Content(props){
             <h2>{props.item.Place}</h2>
             <span>12 Jan,2021-24 Jan,2021</span>
             <span className='work'>{props.item.Description}</span>
-            <br/>
-            <br/>
+        
             </div>
            
         </div>
