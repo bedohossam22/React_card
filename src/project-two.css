@@ -27,6 +27,7 @@ font-weight: 500;
 .container {
     width: 80%;
     margin: auto;
+     margin-bottom: 40px;
    
 }
 .sides {margin-top: 180px;
